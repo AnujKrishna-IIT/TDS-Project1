@@ -1,13 +1,8 @@
-# TDS Project: Analysis of GitHub users and their repositories in Dublin city
-
 ## 1. Data Scraping:
-The GitHub API token, along with the Python's pandas library, was used to generate two files namely, users.csv and repositories.csv.
+Data scraping was done using the GitHub API and pandas, fetching the users in Dublin city and their 500 recently pushed repositories. 
 
-a) users.csv : This file contains detailed information about each user located in Dublin with more than 50 followers.  
-b) repositories.csv : This file holds data on a total of 28,728 repositories belonging to these users.
-
-## 2. Surprising facts on the data analysis:
-Increase in the repositories has a positive impact on the followers. A user gets approximately 3 additional followers for each repository. And also, the increase in the bio-length increases the number of followers.
+## 2. Surprising fact:
+An increase in the number of repositories positively impacts follower growth, with users gaining approximately 3 additional followers for each repository.
 
 ## 3. Recommendation for Developers:
-Developers are encouraged to create more repositories and also to build more informative projects. They are also advised to have a more detailed profile in their bio. This attracts more followers and also fosters collaboration and engagement with other developers.
+Developers are encouraged to create more informative repositories, as this attracts followers and fosters collaboration with other developers.
