@@ -7,7 +7,7 @@ a) users.csv : This file contains detailed information about each user located i
 b) repositories.csv : This file holds data on a total of 28,728 repositories belonging to these users.
 
 ## 2. Surprising facts on the data analysis:
-Increase in the repositories has a positive impact on the followers. A user gets approximately 3 additional users for each repository. And also, the increase in the bio-length increases the number of followers.
+Increase in the repositories has a positive impact on the followers. A user gets approximately 3 additional followers for each repository. And also, the increase in the bio-length increases the number of followers.
 
 ## 3. Recommendation for Developers:
 Developers are encouraged to create more repositories and also to build more informative projects. They are also advised to have a more detailed profile in their bio. This attracts more followers and also fosters collaboration and engagement with other developers.
